@@ -28,7 +28,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham9049&show_icons=true&locale=en&layout=compact" alt="shubham9049" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham9049&show_icons=true&locale=en" alt="shubham9049" /></p>
-<img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" style="max-width: 100%;">
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham9049&" alt="shubham9049" /></p>
+<img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" style="max-width: 100%;">
