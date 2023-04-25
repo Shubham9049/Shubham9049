@@ -33,5 +33,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham9049&" alt="shubham9049" /></p>
 <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" style="max-width: 100%;">
 <img align="center" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="100%" style="max-width: 100%;">
-<img src="](https://raw.githubusercontent.com/Shashwat2104/Shashwat2104/main/resources/waves.svg)
-">
+<img src="https://raw.githubusercontent.com/Shashwat2104/Shashwat2104/main/resources/waves.svg">
